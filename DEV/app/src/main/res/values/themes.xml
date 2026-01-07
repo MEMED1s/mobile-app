@@ -1,7 +1,0 @@
-<resources>
-
-    <style name="Theme.YukaApp" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- tu peux ajouter des couleurs plus tard -->
-    </style>
-
-</resources>

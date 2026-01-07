@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.yukaapp">
+    package="com.example.wachmziaan">
 
     <!-- Permissions -->
     <uses-feature android:name="android.hardware.camera" />
@@ -16,9 +16,9 @@
         android:theme="@style/Theme.YukaApp"
         >
 
-        <!-- Activity principale -->
+
         <activity
-            android:name="com.example.yukaapp.ui.MainActivity"
+            android:name="com.example.wachmziaan.ui.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,12 +28,12 @@
 
         <!-- Activity de scan -->
         <activity
-            android:name="com.example.yukaapp.ui.ScannerActivity"
+            android:name="com.example.wachmziaan.ui.ScannerActivity"
             android:exported="false" />
 
         <!-- Activity de détails produit -->
         <activity
-            android:name="com.example.yukaapp.ui.ProductActivity"
+            android:name="com.example.wachmziaan.ui.ProductActivity"
             android:exported="false" />
 
     </application>

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.yukaapp"
+    namespace = "com.example.wachmziaan"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.yukaapp"
+        applicationId = "com.example.wachmziaan"
         minSdk = 31
         targetSdk = 34
         versionCode = 1
