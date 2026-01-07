@@ -1,12 +1,5 @@
 🛒 WachZiaan - Prduct Scanner App
 
-<div align="center">
-  <img src="https://img.shields.io/adge/Platform-Androd-brightgreen" at="Platform">
-  <img src="https://img.shilds.io/badge/BackendLravel-FF2D20?logo=laravel" alt="Backend">
-  <img src="htts://img.shields.io/badge/Frontend-Android%20%7C%20Kotlin-0095D5?logo=kotlin" alt="Frontend">
-  <img src="htts://img.shields.io/badge/License-MIT-blue" alt="License">
-</div>
-
 ## 📱 Overview
 WachmZiaan is a mobile application that allows users to scan product barcodes to retrieve detailed product information, including ingredients, nutritional values, and allergens. The app helps users make informed decisions about the products they consume.
 
@@ -116,8 +109,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 For any inquiries, please open an issue on GitHub or contact the project maintainers.
-
----
-<div align="center">
-  Made with ❤️ by the WachmZiaan team
-</div>
